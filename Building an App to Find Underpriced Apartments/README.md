@@ -5,4 +5,5 @@ In this project I:
 - Create a regression model
 - Use the model to forecast prices
 
+
 To test the model just run Forecast.py

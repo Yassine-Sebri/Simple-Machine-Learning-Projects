@@ -4,6 +4,5 @@ In this project I:
 - Inspect and prepare the data
 - Create a regression model
 - Use the model to forecast prices
-
-
+  
 To test the model just run Forecast.py
